@@ -12,7 +12,7 @@ Q_5 : https://onlinegdb.com/VbSicim-e
 
 <img width="1491" height="902" alt="image" src="https://github.com/user-attachments/assets/036e3ae2-4b89-482f-987c-38634549cef0" />
 
-📘 C Programming Practice Collection
+📘 C Programming 
 
 This repository contains beginner-friendly C programs covering core programming concepts such as arrays, functions, pointers, and pattern printing.
 
